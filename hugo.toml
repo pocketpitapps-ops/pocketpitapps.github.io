@@ -1,0 +1,80 @@
+baseURL = "https://pocketpitapps.pt/"
+title = "PocketPitApps"
+theme = "hugo-PaperMod"
+paginate = 10
+
+defaultContentLanguage = "pt"
+
+[languages]
+  [languages.pt]
+    locale = "pt"
+    label = "Português"
+    weight = 1
+
+[params]
+  env = "production"
+  description = "Apps móveis para gestão financeira pessoal"
+  author = "PocketPitApps"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = false
+  disableSpecial1stPost = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "PocketPitApps"
+    Content = "Apps móveis para gestão financeira pessoal — simples, seguros e offline-first."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/pocketpitapps-ops"
+
+  [params.cover]
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.assets]
+    disableHLJS = false
+
+  [params.label]
+    text = "PocketPitApps"
+    icon = ""
+    iconHeight = 35
+
+  [params.favicon]
+    inline = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "apps"
+    name = "Apps"
+    url = "/apps/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    url = "/about/"
+    weight = 20
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "dracula"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[imaging]
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
