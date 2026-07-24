@@ -52,8 +52,11 @@ O Bill Pit está disponível para Android:
 
 ## Versões
 
+### v1.0.2 (24 Julho 2026)
+- Corrigido bug: despesas não eram guardadas ao criar via wizard
+
 ### v1.0.1 (24 Julho 2026)
-- Corrigido bug: despesas não eram guardadas ao criar nova despesa
+- Corrigido bug: despesas não eram guardadas ao criar via formulário
 
 ### v1.0.0 (24 Julho 2026)
 - Lançamento oficial
