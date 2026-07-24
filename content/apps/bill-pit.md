@@ -50,6 +50,14 @@ O Bill Pit está disponível para Android:
 - Android 7.0 (API 24) ou superior
 - ~15 MB de espaço
 
+## Versões
+
+### v1.0.1 (24 Julho 2026)
+- Corrigido bug: despesas não eram guardadas ao criar nova despesa
+
+### v1.0.0 (24 Julho 2026)
+- Lançamento oficial
+
 ## Screenshots
 
 *Em breve*
