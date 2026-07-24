@@ -32,10 +32,6 @@ defaultContentLanguage = "pt"
   tocopen = false
   comments = false
 
-  [params.homeInfoParams]
-    Title = "PocketPitApps"
-    Content = "Apps móveis para gestão financeira pessoal — simples, seguros e offline-first."
-
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/pocketpitapps-ops"
