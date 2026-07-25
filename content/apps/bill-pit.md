@@ -43,7 +43,7 @@ Gestão inteligente de despesas recorrentes e únicas com calendário visual, no
 
 O Bill Pit está disponível para Android:
 
-- [Download APK (última versão)](https://github.com/pocketpitapps-ops/bill_pit/releases/latest)
+- [Download APK (última versão)](https://github.com/pocketpitapps-ops/bill_pit/releases/latest/download/BillPit.apk)
 
 ### Requisitos
 
