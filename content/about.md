@@ -24,6 +24,15 @@ A PocketPitApps é um projecto pessoal de desenvolvimento de apps móveis focada
 
 Todas as apps são desenvolvidas com **Flutter** e seguem boas práticas de desenvolvimento mobile.
 
+## Apoiar o Projeto
+
+Se gostas das nossas apps e queres ajudar a mantê-las gratuitas e a melhorá-las,considera apoiar o projeto:
+
+- **[Ko-fi](https://ko-fi.com/pocketpitapps)** — Comprar um café
+- **[GitHub Sponsors](https://github.com/sponsors/pocketpitapps-ops)** — Sponsor no GitHub
+
+O teu apoio ajuda a pagar hosting, domínios e a investir em novas features.
+
 ## Contacto
 
 - GitHub: [pocketpitapps-ops](https://github.com/pocketpitapps-ops)
